@@ -4,7 +4,7 @@ export class Die extends Component {
     render() {
         return (
             <div>
-               Works 
+               Works on laptop 
             </div>
         )
     }
